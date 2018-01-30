@@ -1,2 +1,2 @@
-# -repo_test_1
-repositorio 1, primer practica 
+# repo_test_1
+repositorio 1, P1 
